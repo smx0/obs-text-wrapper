@@ -6,6 +6,5 @@
 	"description": "Quickly wrap selected text with HTML tags by using a shortcut or from the command palette",
 	"author": "smx0",
 	"authorUrl": "https://github.com/smx0",
-	"fundingUrl": "",
 	"isDesktopOnly": false
 }
