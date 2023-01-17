@@ -1,7 +1,7 @@
 {
-	"name": "obsidian-sample-plugin",
+	"name": "obs-text-wrapper",
 	"version": "1.0.0",
-	"description": "This is a sample plugin for Obsidian (https://obsidian.md)",
+	"description": "Quickly wrap selected text with HTML tags by using a shortcut or from the command palette",
 	"main": "main.js",
 	"scripts": {
 		"dev": "node esbuild.config.mjs",
