@@ -1,7 +1,5 @@
 import { App, Editor, MarkdownView, Modal, Plugin, PluginSettingTab, Setting } from 'obsidian';
 
-// Remember to rename these classes and interfaces!
-
 interface TextWrapSettings {
 	quickTagOne: string;
 	quickTagTwo: string;
